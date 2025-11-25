@@ -1,5 +1,11 @@
 # RAG PDF Question Answering System
 
+live demo https://rag-application-xi.vercel.app/
+
+
+<img width="1896" height="870" alt="image" src="https://github.com/user-attachments/assets/d71803e6-00d7-4c20-b23e-8d7dbc1bd5a7" />
+
+
 This is a MERN stack application that allows users to upload PDFs, processes them using Gemini Embeddings, and answers questions using Gemini Flash.
 
 ## Features
